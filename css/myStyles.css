@@ -1,0 +1,71 @@
+
+#h2index{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    color: white;
+    font-family: 'Courier New', Courier;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+.Header{
+    Background-color: rgb(104, 153, 169);
+    height: 100px;
+    line-height: 100px
+
+}
+
+.common{
+    text-align: center;
+    font-family: 'Courier New', Courier;
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier;
+    padding: 15px;
+}
+    
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    float: left;
+    padding: 13px;
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: #ccc;
+}
+
+.footer{
+    background-color: rgb(104, 153, 169);
+    color: white;
+    height: 25px;
+    bottom: 0px;
+    position: fixed;
+    left: 5px;
+    right: 5px;
+    padding-top: 15px;
+    font-size: 11px;
+}
+
+/* ol li{
+    font-weight: bold;
+} */
+
+
+
+
